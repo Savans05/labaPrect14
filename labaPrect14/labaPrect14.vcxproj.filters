@@ -7,7 +7,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="main.h">
+    <ClInclude Include="foo.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>
