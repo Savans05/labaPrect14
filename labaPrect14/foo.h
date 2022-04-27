@@ -28,7 +28,7 @@ void radota()
 {
 	srand(time(0));
 	uint32_t size;
-	cout << "\tEnter size ->";
+	cout << "\tEnter size -> ";
 	cin >> size;
 	int* mas = new int[size];
 	sum_dob(mas, size);
